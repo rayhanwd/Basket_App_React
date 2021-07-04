@@ -1,0 +1,37 @@
+.cart__icon{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart__icon svg {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.cart__title {
+    font-size: 1.5rem;
+    font-weight:600;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.delete__icon svg {
+    color: rgb(241, 18, 18);
+    font-size: 1.8rem;
+}
+
+.selected__cart{
+    margin-top: 1rem;
+    background-color: lightgray;
+    padding: .6rem;
+    border-radius: 0.3rem;
+}
+.selected__cart__icon svg{
+    color: white;
+}
+.selected__cart__icon svg:hover{
+    color: red;
+}
+.selected__cart__name {
+    margin-left: 2rem;
+    padding-right: 10rem;
+}

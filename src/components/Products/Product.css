@@ -1,0 +1,13 @@
+.product{
+    margin-top: 1rem;
+    background-color: lightgray;
+    padding: .6rem;
+    border-radius: 0.3rem;
+}
+.product__icon svg{
+    color: green;
+}
+.product__name {
+    margin-left: 2rem;
+    padding-right: 10rem;
+}

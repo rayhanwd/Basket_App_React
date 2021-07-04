@@ -1,0 +1,16 @@
+.header__basket {
+    background-color: #111827;
+    color: #fff;
+    text-align: center;
+    width:100%;
+}
+
+.header__basket .icon svg {
+    padding-top: 1rem;
+    font-size: 6rem;
+}
+
+.header__basket h4 {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
